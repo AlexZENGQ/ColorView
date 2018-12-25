@@ -27,7 +27,7 @@ Bootstrap，来自 Twitter，是目前最受欢迎的前端框架。Bootstrap �
 </html>
 ```
 
-### 接着在以上的代码中 <body> 开始写入代码
+### 接着在以上的代码中 “<body>” 下开始写入代码
   >>记得 Bootstrap 整体是包含在 <div class="comtanier>...</div>之中 
 
 
