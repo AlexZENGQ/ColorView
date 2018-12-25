@@ -31,7 +31,6 @@ Bootstrap，来自 Twitter，是目前最受欢迎的前端框架。Bootstrap �
   >>记得 Bootstrap 整体是包含在 <div class="comtanier>...</div>之中 ，并使用已有组件进行创建
     
     1.标题以及三张图连续展示，Gird网格系统，bootstrap运用的是12格网格，可以随意分成一份、两份、三份、四份
-    ```
     <div class="row">
         <div class="col-md-6"><img class="title-logo" src="images/title1.png" height="100" alt="AlexZENGQlogo"></div>
         <div class="col-md-6 text-uppercase text-right">
@@ -70,10 +69,12 @@ Bootstrap，来自 Twitter，是目前最受欢迎的前端框架。Bootstrap �
           </div>
         </div>  
       </div>
-      ```
+      
+      
+      
       
       2.四张图的展示，并使用 Modal 响应式弹出
-      ```
+      
       <div class="row" style="height: 20px;"></div>
       <div class="row">
         <div class="col-md-12">
@@ -186,6 +187,8 @@ Bootstrap，来自 Twitter，是目前最受欢迎的前端框架。Bootstrap �
         </div>
       </div>
     </div>
-    ```
+    
+    
+    
     3.最后根据自己的设计想法或者已有图纸，设计出不同的css满足要求
 
