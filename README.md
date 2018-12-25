@@ -4,6 +4,7 @@ Bootstrap，来自 Twitter，是目前最受欢迎的前端框架。Bootstrap �
 官方文档：https://getbootstrap.com/docs/4.1/getting-started/introduction/
 
 ### 首先是进入 Bootstrap Documentation 导入 依赖的文件包 Starter template
+'''
 <!doctype html>
 <html lang="en">
   <head>
@@ -24,6 +25,7 @@ Bootstrap，来自 Twitter，是目前最受欢迎的前端框架。Bootstrap �
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
 </html>
+'''
 
 
 
