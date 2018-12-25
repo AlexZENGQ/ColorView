@@ -1,9 +1,9 @@
-##Bootstrap框架
+## Bootstrap框架
 Bootstrap，来自 Twitter，是目前最受欢迎的前端框架。Bootstrap 是基于 HTML、CSS、JAVASCRIPT 的，它简洁灵活，使得 Web 开发更加快捷。由 Twitter 的 Mark Otto 和 Jacob Thornton 开发。 2011 年八月在 GitHub 上发布的开源产品。
 
 官方文档：https://getbootstrap.com/docs/4.1/getting-started/introduction/
 
-###首先是进入 Bootstrap Documentation 导入 依赖的文件包 Starter template
+### 首先是进入 Bootstrap Documentation 导入 依赖的文件包 Starter template
 <!doctype html>
 <html lang="en">
   <head>
@@ -17,8 +17,6 @@ Bootstrap，来自 Twitter，是目前最受欢迎的前端框架。Bootstrap �
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
